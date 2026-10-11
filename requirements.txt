@@ -1,0 +1,10 @@
+# Exact versions used for every reported result (Python 3.12.10, Windows 11).
+# The same pins are declared in pyproject.toml; install with: pip install -r requirements.txt
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+PyYAML==6.0.3
+# tests
+pytest==9.1.1
+hypothesis==6.168.5
+networkx==3.7

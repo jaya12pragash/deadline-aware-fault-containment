@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: >-
+  If you use this research artifact, please cite the version-specific Zenodo DOI.
+type: software
+doi: 10.5281/zenodo.23305687
+version: 1.0.0
+date-released: 2026-10-11
+title: "DAFC: Deadline-Aware Fault Containment for AI Agent Workflows on Shared Services (research artifact)"
+authors:
+  - family-names: Dakshnamurthy
+    given-names: Jayapragash
+    affiliation: Independent Researcher, Princeton Junction, New Jersey, USA
+    orcid: "https://orcid.org/0009-0009-6907-5282"
+abstract: >-
+  Seeded discrete-event simulator of LLM-agent workflows on shared model, retrieval, tool and agent endpoints;
+  the DAFC policy and conventional baselines; pre-registered experiment configurations, frozen parameters, seeds,
+  trace manifests, analysis scripts, and validation evidence. Simulation only.
+keywords:
+  - fault tolerance
+  - agentic AI
+  - cloud resilience
+  - deadline-aware scheduling
+  - simulation

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+*.egg-info/
+results/raw/**/*.jsonl.gz
+!results/raw/README.md
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
